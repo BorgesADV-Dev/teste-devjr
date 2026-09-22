@@ -1208,7 +1208,7 @@ O prazo é de:
 
 Envie o link do repositório para:
 
-**[ti@escritorioborgesadv.com.br](mailto:ti@escritorioborgesadv.com.br)**
+**[gabriel@escritorioborgesadv.com.br](mailto:gabriel@escritorioborgesadv.com.br)**
 
 Se houver algum bloqueio técnico — por exemplo, problema com chave do LLM, limite da API ou comportamento inesperado do DataJud — pergunte.
 
