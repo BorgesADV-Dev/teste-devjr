@@ -538,7 +538,7 @@ A aplicação não deve concluir automaticamente que a ação principal foi ence
 
 ---
 
-## Caso F
+## Caso F - Rio Grande do Sul (JFRS)
 
 ```text
 5017085-67.2026.4.04.7108
@@ -554,8 +554,8 @@ Possui:
 
 Este caso existe para testar duas coisas:
 
-1. Baixa definitiva não significa necessariamente que houve sentença.
-2. O índice do DataJud não é o TJSC.
+1. Baixa definitiva não significa que houve sentença, mas necesseriamente mas houve uma decisão que encerrou o processo.
+2. O índice do DataJud não é o TJSC/TJRS.
 
 O sistema não deve afirmar que houve sentença simplesmente porque existe uma baixa definitiva.
 
