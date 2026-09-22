@@ -1,7 +1,5 @@
 # Teste Técnico — Assistente de Processos Judiciais
 
-**Data:** 22 de setembro de 2026
-**Empresa:** Escritório Borges Advogados Associados
 
 ## Contexto e objetivo
 
